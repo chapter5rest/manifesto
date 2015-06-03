@@ -14,9 +14,9 @@ implementing REST as described in [Fielding Chapter 5][dissertation].
 
 ### Understanding REST
 
-Understanding Chapter 5 REST starts with reading [Fielding Chapter 5]. The text
-is densely packed with meaning and may require multiple reads before the 
-meaning begins to crystalize.
+Understanding Chapter 5 REST starts with reading [Fielding Chapter 5][dissertation].
+The text is densely packed with meaning and may require multiple reads before
+the meaning begins to crystalize.
 
 Those with experience implementing other popular styles should be on the alert
 for premature "a-ha" moments, when it is easy to see false similarities with
@@ -55,8 +55,8 @@ so inclined to participate, we would be honored.
 
 ### Submitting changes, forking, and collaboration
 
-Chapter 5 REST is itself standardized in [Dr. Fielding's dissertation][dissertation].
-This organization makes no attempt to change that standard itself.
+Chapter 5 REST is itself defined in [Dr. Fielding's dissertation][dissertation].
+This organization does not seek to alter that definition.
 
 Change submissions to this organization's repositories are welcome. These may be
 easily done using GitHub's Fork and Pull Request features. All submissions are
