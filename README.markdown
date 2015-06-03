@@ -69,8 +69,8 @@ https://github.com/chapter5rest/
 Issues should be reported using the appropriate sub-project's Issues on GitHub.
 
 
-[dissertation](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-[distractions](http://www.slideshare.net/royfielding/a-little-rest-and-relaxation)
-[reading](https://github.com/chapter5rest/manifesto/reading.markdown)
-[checklist](https://github.com/chapter5rest/manifesto/checklist.markdown)
-[testsuite](https://github.com/chapter5rest/rest-tests/README.markdown)
+[dissertation]: https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+[distractions]: http://www.slideshare.net/royfielding/a-little-rest-and-relaxation
+[reading]: https://github.com/chapter5rest/manifesto/reading.markdown
+[checklist]: https://github.com/chapter5rest/manifesto/checklist.markdown
+[testsuite]: https://github.com/chapter5rest/rest-tests/README.markdown
