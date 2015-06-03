@@ -69,8 +69,13 @@ https://github.com/chapter5rest/
 Issues should be reported using the appropriate sub-project's Issues on GitHub.
 
 
+### Credits
+
+  * Bullseye and dart image, courtesy of [GraphicsFuel][bullseye].
+
 [dissertation]: https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 [distractions]: http://www.slideshare.net/royfielding/a-little-rest-and-relaxation
 [reading]: https://github.com/chapter5rest/manifesto/reading.markdown
 [checklist]: https://github.com/chapter5rest/manifesto/checklist.markdown
 [testsuite]: https://github.com/chapter5rest/rest-tests/README.markdown
+[bullseye]: https://www.iconfinder.com/icons/67060/bullseye_dart_target_icon
